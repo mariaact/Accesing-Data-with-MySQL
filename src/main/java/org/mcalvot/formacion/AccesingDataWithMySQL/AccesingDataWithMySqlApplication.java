@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AccesingDataWithMySqlApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(AccesingDataWithMySqlApplication.class, args);
+
 	}
+
 
 }
